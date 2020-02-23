@@ -1,7 +1,7 @@
 AssignmentFinal-Advanced
 =
 
-Centennial - Assignment Final - (Registration)
+Centennial - Assignment Final - (Registration Form)
 =
 
 # About
